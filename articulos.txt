@@ -1,0 +1,11 @@
+4,3,4,Liquid
+2,1,5,Food
+1,2,2,Document
+3,5,1,Food
+2,2,4,Document
+5,3,3,Electronic
+2,5,2,Food
+3,3,2,Electronic
+5,2,1,Liquid
+3,1,2.Liquid
+
